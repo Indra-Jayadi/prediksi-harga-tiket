@@ -4,7 +4,7 @@ Aplikasi web yang memperkirakan harga tiket pesawat domestik India berdasarkan r
 
 **🔗 Coba aplikasinya:** 
 [[LINK-APLIKASI-STREAMLIT]](https://prediksi-harga-tiket-jvy2v7xcluf5rxktcirrcc.streamlit.app/)
-<img width="647" height="786" alt="prediksi-tiket" src="https://github.com/user-attachments/assets/26cf9375-ca35-4585-9e31-fbbad13b8ac9" />
+<img width="450" height="786" alt="prediksi-tiket" src="https://github.com/user-attachments/assets/26cf9375-ca35-4585-9e31-fbbad13b8ac9" />
 
 
 ## Ringkasan hasil
