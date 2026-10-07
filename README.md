@@ -6,6 +6,8 @@ Aplikasi web yang memperkirakan harga tiket pesawat domestik India berdasarkan r
 <img width="647" height="786" alt="prediksi-tiket" src="https://github.com/user-attachments/assets/bcf83ade-e3e8-4a88-9f2f-083e5547a4a7" />
 
 
+
+
 ## Ringkasan hasil
 
 | Metrik (data uji) | Nilai |
