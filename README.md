@@ -2,10 +2,9 @@
 
 Aplikasi web yang memperkirakan harga tiket pesawat domestik India berdasarkan rute, maskapai, kelas, jumlah transit, jam terbang, dan waktu pemesanan. Perkiraan dibuat dengan model machine learning (Random Forest) yang dilatih pada sekitar 300 ribu data tiket.
 
-**🔗 Coba aplikasinya:** [[LINK-APLIKASI-STREAMLIT]](https://prediksi-harga-tiket-jvy2v7xcluf5rxktcirrcc.streamlit.app/)
+**🔗 Coba aplikasinya:** 
 <img width="647" height="786" alt="prediksi-tiket" src="https://github.com/user-attachments/assets/bcf83ade-e3e8-4a88-9f2f-083e5547a4a7" />
-
-
+[[LINK-APLIKASI-STREAMLIT]](https://prediksi-harga-tiket-jvy2v7xcluf5rxktcirrcc.streamlit.app/)
 
 
 ## Ringkasan hasil
